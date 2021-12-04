@@ -15,7 +15,7 @@ body:
     attributes:
       label: Objective
       description: Link to discussion.
-      placeholder: https://github.com/jef/streetmerchant/discussions
+      placeholder: https://github.com/sour/streetmerchant/discussions
     validations:
       required: true
   - type: textarea
