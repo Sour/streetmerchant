@@ -1,4 +1,3 @@
-[![streetmerchant](assets/images/streetmerchant-banner.png)](https://jef.buzz/streetmerchant)
 
 ## Features
 
